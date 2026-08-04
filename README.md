@@ -23,3 +23,4 @@ Digital_twin/
 
 # 以上为部分主要代码文件注释~
 # step_one中的代码主要在 MATLAB中运行的，关于心肺系统物理原模型在另一个压缩包里
+<img width="735" height="666" alt="QQ_1785834831898" src="https://github.com/user-attachments/assets/df90a5fd-9924-4b0f-b721-8a6a97edce37" />
